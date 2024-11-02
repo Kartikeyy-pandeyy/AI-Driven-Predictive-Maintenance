@@ -1,28 +1,21 @@
-# Title of Your Paper
+# AI-Driven Predictive Maintenance for Railway Ecosystem: An Edge Computing Optimization Framework
 
 ## Abstract
-A brief summary of your paper's content, key findings, and significance. Keep it concise and informative.
+This paper presents an innovative AI-driven framework tailored for railway maintenance, focusing on predictive maintenance through edge computing optimization. The framework aims to enhance efficiency by preventing equipment failures.
 
 ## Conference Details
-- **Conference Name:** [Name of the conference]
-- **Location:** [Location of the conference]
-- **Date:** [Date of the conference]
+- **Conference Name:** 7th International Conference on Recent Innovations in Computing (ICRIC-07)
+- **Location:** Jammu
+- **Date:** 23-24 August, 2024
 - **Accepted for Presentation:** Yes
 
 ## Authors
 - Kartikey Pandey
-- [Other Authors if any]
+- Ritika Sharma
+- Richa Golash
 
 ## Link to Paper
-You can find the paper in PDF format here: [Paper Link](link-to-your-paper.pdf)
-
-## Repository Structure
-- `paper.pdf`: The final version of the conference paper.
-- `presentation.pptx`: [Optional] Link to any presentation slides.
-- `source/`: [Optional] Folder containing LaTeX source files if applicable.
+You can find the paper: [[Paper Link](https://www.overleaf.com/read/rqcshrynmtfd#96bcd1)]
 
 ## Contact Information
-If you have any questions or feedback, please contact me at [your-email@example.com](mailto:your-email@example.com).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+If you have any questions or feedback, please contact me at kartikeyy.pandeyy@gmail.com.
