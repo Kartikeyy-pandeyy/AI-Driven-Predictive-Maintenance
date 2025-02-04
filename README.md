@@ -9,7 +9,7 @@ This paper presents an innovative **AI-driven framework** tailored for **railway
 - **Richa Golash**  
 
 ## 📄 Link to Paper  
-You can find the paper here: [**Read the Paper**](https://www.overleaf.com/read/rqcshrynmtfd#96bcd1)  
+You can find the paper here: [**Read the Paper**](https://drive.google.com/file/d/1iiJeQl5j4VptUNr2Ywl3YS-0uH7BTfac/view?usp=sharing)  
 
 ---
 
